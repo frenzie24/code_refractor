@@ -24,7 +24,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+/* child nav elements of header */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,16 +33,10 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
-    list-style-type: none;
-}
-
-header div ul li {
+/* formats to function as a horizontal list */
+a {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
     color: #ffffff;
     text-decoration: none;
 }
