@@ -1,4 +1,4 @@
-# code_refractor
+# horiseon_code_refractor
 Asssignment 1 - Refractoring code from a starting base
 
 This project was an exercise in refractoring a code base to be more in line with new best practices.
