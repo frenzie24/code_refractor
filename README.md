@@ -8,4 +8,4 @@ We modified index.html and style.css extensively and did our best to isolate eac
 
 ![Screenshot](/assets/images/Screenshot.jpeg)
 
-[live_site_demo](https://frenzie24.github.io/horiseon_mock_up/)
+[live_site_demo](https://frenzie24.github.io/horiseon-code-refractor/)
